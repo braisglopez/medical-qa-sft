@@ -22,7 +22,7 @@ results/            Final predictions, analyses, tables, and selected logs.
 docs/               Dataset, reproduction, experiment, and adapter notes.
 ```
 
-Adapters are intentionally not stored in Git because of their size. Their model cards and Hugging Face locations will be documented in [docs/adapters.md](docs/adapters.md).
+Adapters are intentionally not stored in Git because of their size. Their model cards and Hugging Face locations are listed in [docs/adapters.md](docs/adapters.md).
 
 ## Main workflow
 
