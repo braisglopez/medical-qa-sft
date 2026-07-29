@@ -1,0 +1,13 @@
+# Core fine-tuning and evaluation stack
+unsloth
+transformers
+trl
+datasets
+accelerate
+bitsandbytes
+peft
+torch
+tqdm
+
+# Browser automation used by the Drugs.com extraction pipeline
+selenium

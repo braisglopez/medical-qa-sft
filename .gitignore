@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Environments and secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+*.key
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated training artifacts and caches
+unsloth_compiled_cache/
+**/unsloth_compiled_cache/
+checkpoints/
+runs/
+wandb/
+artifacts/
+outputs/raw_local/
+*.progress.json
+
+# Local archives and temporary exports
+*.tar.gz
+*.zip
+results_from_citius/
+
+# Base-model and adapter weights are published separately in Hugging Face
+*.safetensors
+*.bin
+*.pt
+*.pth
