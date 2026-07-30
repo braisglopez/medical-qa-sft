@@ -24,6 +24,8 @@ docs/               Dataset, reproduction, experiment, and adapter notes.
 
 Adapters are intentionally not stored in Git because of their size. Their model cards and Hugging Face locations are listed in [docs/adapters.md](docs/adapters.md).
 
+The final Master's thesis is available in [docs/memoria/Construcion_Coleccions_QA_Medicas_TFM.pdf](docs/memoria/Construcion_Coleccions_QA_Medicas_TFM.pdf).
+
 ## Main workflow
 
 1. Extract Drugs.com QA records or collect WHO Fact Sheets.
